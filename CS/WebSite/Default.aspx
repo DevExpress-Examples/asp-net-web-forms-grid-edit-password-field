@@ -17,7 +17,7 @@
             <dx:ASPxGridView ID="ASPxGridView1" runat="server" AutoGenerateColumns="False" KeyFieldName="ID"
                 ClientInstanceName="grid" OnRowInserting="ASPxGridView1_RowInserting" OnRowUpdating="ASPxGridView1_RowUpdating">
                 <Columns>
-                    <dx:GridViewCommandColumnShowEditButton="True" ShowNewButton="True" />
+                    <dx:GridViewCommandColumn ShowEditButton="True" ShowNewButton="True" />
                     <dx:GridViewDataTextColumn Caption="User ID" FieldName="ID" />
                     <dx:GridViewDataTextColumn Caption="User Name" FieldName="Username" />
                     <dx:GridViewDataTextColumn FieldName="Password" >
