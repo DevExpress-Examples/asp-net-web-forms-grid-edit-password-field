@@ -14,7 +14,7 @@ This example demonstrates one of possible ways to edit a password field.
 
 ## Implementation Details
 
-According to the security settings which are implemented in our editors, the password can't be set on the server side. In edit mode, an editor with enabled the [Password](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxTextBoxBase.Password) property is displayed empty. Since it might confuse users, we suggest you to implement the following functionality to edit a password field.
+According to the security settings implemented in our editors, the password cannot be set on the server side. In edit mode, an editor with an enabled [Password](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxTextBoxBase.Password) property is displayed empty. Since this can confuse users, we suggest that you implement the following functionality to edit a password field:
 
 ## Files to Review
 
