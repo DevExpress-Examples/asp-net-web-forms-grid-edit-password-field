@@ -5,9 +5,6 @@
 <!-- default badges end -->
 
 # Grid View for ASP.NET Web Forms - How to edit a password field
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128533940/)**
-<!-- run online end -->
 
 This example demonstrates one of possible ways to edit a password field.
 
